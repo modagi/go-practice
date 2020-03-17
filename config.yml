@@ -1,0 +1,6 @@
+web3endpoint:
+  - host: 127.0.0.1
+    port: 7545
+  
+server:
+  port: 54321
